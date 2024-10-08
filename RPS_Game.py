@@ -202,7 +202,7 @@ def mainmenu():
         os.system('cls')
         print("""
 ----- Rock Paper Scissors Credits! -----
-- Creator - > Thomas Gilbert
+- Creator - > Thomas G (github.com/sgtflixy)
 - Resources - > https://devdojo.com (RPS ASCII)
 - Python Team
 """)
